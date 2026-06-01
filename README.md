@@ -56,7 +56,7 @@
 
 
 ### 🔗 Others  
- <img src="https://skillicons.dev/icons?i=npm,firebase,github,git,postman,figma,xd,netlify,vercel,c,cpp,wordpress&theme=dark&perline=5"/>
+ <img src="https://skillicons.dev/icons?i=npm,firebase,github,git,jest,postman,figma,xd,netlify,vercel,c,cpp,wordpress&theme=dark&perline=5"/>
 
 </td></tr></table>  
 
